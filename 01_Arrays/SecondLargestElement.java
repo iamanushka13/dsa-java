@@ -1,3 +1,6 @@
+//Optimal Approach
+//Time complexity - O(N)
+
 int largest = Integer.MIN_VALUE;
 int secondLargest = Integer.MAX_VALUE;
 for(int i=0;i<arr.length;i++){
