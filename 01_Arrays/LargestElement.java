@@ -1,4 +1,4 @@
-//Brute Force 
+//Optimal Approach
 //Time complexity: O(n)
 
 class Solution {
